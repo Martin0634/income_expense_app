@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Income",
+    "Amount": 1725,
+    "Category": "Top Shelf Home Cleaning",
+    "Description": "Week 1 November 2026",
+    "Date": "2026-11-16"
+  },
+  {
+    "Type": "Expense",
+    "Amount": 49.99,
+    "Category": "Fuel",
+    "Description": "2013 Escape",
+    "Date": "2026-11-03"
+  },
+  {
+    "Type": "Income",
+    "Amount": 50,
+    "Category": "Tips",
+    "Description": "Denise thrash help",
+    "Date": "2026-11-17"
+  },
+  {
+    "Type": "Income",
+    "Amount": 120,
+    "Category": "AllClean Xperts",
+    "Description": "Diane Mutagoma",
+    "Date": "2026-11-05"
+  },
+  {
+    "Type": "Income",
+    "Amount": 15.28,
+    "Category": "Tips",
+    "Description": "Diane Mutagoma",
+    "Date": "2026-11-05"
+  }
+]
